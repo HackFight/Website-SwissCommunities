@@ -157,6 +157,14 @@ body{
 .arrow{
   height: 2.5vw;
 }
+.logo{
+  position: absolute;
+
+  top: 12vw;
+  left: 65vw;
+
+  height: 18vw;
+}
 
 /* ===== Scrollbar CSS ===== */
   * {
